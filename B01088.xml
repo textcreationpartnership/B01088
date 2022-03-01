@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new booke vvherein is contained copies of the secretarie and romane hands: with an alphabet of capitall antique letters: published for the instruction of the vnskilfull. / By William Comley of Henley.</title>
+            <author>Comley, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 2 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01088</idno>
+            <idno type="STC">STC 5604.6</idno>
+            <idno type="STC">ESTC S91495</idno>
+            <idno type="EEBO-CITATION">52633124</idno>
+            <idno type="OCLC">ocm 52633124</idno>
+            <idno type="VID">173939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01088)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2111:4b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new booke vvherein is contained copies of the secretarie and romane hands: with an alphabet of capitall antique letters: published for the instruction of the vnskilfull. / By William Comley of Henley.</title>
+                  <author>Comley, William.</author>
+               </titleStmt>
+               <extent>[9] leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>G. Purslowe],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>May 1622.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Name of publisher from STC (2nd ed.).</note>
+                  <note>Reproduction of original in: Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penmanship, English --  Early works to 1800.</term>
+               <term>Copybooks --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173939:1"/>
+            <p>A NEW BOOKE VVHEREIN IS CON<g ref="char:EOLhyphen"/>tained Copies of the Secretarie and Romane hands: with an Alphabet of Capitall Antique Letters: Publiſhed for the inſtruction of the vnskilfull.</p>
+            <p>By WILLIAM COMLEY of <hi>Henley.</hi> May 1622.</p>
+         </div>
+      </front>
+      <body>
+         <div type="handwriting_manual">
+            <figure>
+               <head>Q</head>
+               <figDesc>anthropomorphic 'Q'</figDesc>
+            </figure>
+            <p>A.a.b.b.c.d.ee.f.g.h.i.k.l.m.n.o.p.p.q.q.r.z.s.ss.st.sp.st.t.tt.v.v.u.w.w.x.y.z.z.&amp;c.</p>
+            <p>Versus continens omnes Alphabeti literas.—
+<q xml:lang="lat">Vix Phlegethon Zephyri quaeres modo flabra Micillo.</q>
+            </p>
+            <div type="part">
+               <pb facs="tcp:173939:2"/>
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'A'</figDesc>
+                  </figure>
+               </head>
+               <p>A.a.a.b.b.c.c.d.d.&amp;e.e.f.f.f.g.g.h.h.i.k.k.l.ll.m.m.m.n.n.o.p.p.q.q.r.r.ſ.ſſ.&amp; t.u.u.w.w.x.y.z.&amp;</p>
+            </div>
+            <div type="part">
+               <head>B <figure>
+                     <figDesc>anthropomorphic 'B'</figDesc>
+                  </figure>
+               </head>
+               <p>A.B.C.D.E.ff.G.H.J.K.L.M.N.O.P.Q.R.S.T.V.W.X.Y.Z.<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <head>C <figure>
+                     <figDesc>anthropomorphic 'C'</figDesc>
+                  </figure>
+               </head>
+               <p>A<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>a.a B<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>b.b. C<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>to<hi rend="sup">•</hi>. D<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>d.d.d.d.</p>
+               <p>A B D</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:173939:3"/>
+               <head>D <figure>
+                     <figDesc>anthropomorphic 'D'</figDesc>
+                  </figure>
+               </head>
+               <p>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <head>E <figure>
+                     <figDesc>anthropomorphic 'E'</figDesc>
+                  </figure>
+               </head>
+               <p>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <head>F <figure>
+                     <figDesc>anthropomorphic 'F'</figDesc>
+                  </figure>
+               </head>
+               <p>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:173939:4"/>
+               <head>G <figure>
+                     <figDesc>anthropomorphic 'G'</figDesc>
+                  </figure>
+               </head>
+               <p>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'H'</figDesc>
+                  </figure>
+               </head>
+               <p>Abraham. Barbara. Conſtance David. King of—Israell</p>
+            </div>
+            <div type="part">
+               <head>I <figure>
+                     <figDesc>anthropomorphic 'I'</figDesc>
+                  </figure>
+               </head>
+               <p>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:173939:5"/>
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'K'</figDesc>
+                  </figure>
+               </head>
+               <p>Emmanuell. Feoffament. Gregorie. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ammholam. Harriſonne.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'L'</figDesc>
+                  </figure>
+               </head>
+               <p>Fairus. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Lionnell. Miſdemeanure. Midſommer.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'M'</figDesc>
+                  </figure>
+               </head>
+               <p>Nathaniell. Organon. <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>tonne. Quinque. Quaque.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:173939:6"/>
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'N'</figDesc>
+                  </figure>
+               </head>
+               <p>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. Sampſon. Timotheus. <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>rtifull <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>axezer. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aynt.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'O'</figDesc>
+                  </figure>
+               </head>
+               <p>Wayward. Xerxes. Yerkingley. Zeale-buzie. buzzing. zorobabell.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'P'</figDesc>
+                  </figure>
+               </head>
+               <p>O.coa.og.ogg,''c,cd,'eſ.<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lb, lhh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,ſſſk,ll,lſf<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f.'j.pp.i,ii,i<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m,rn,rr,'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss,<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,iu.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vv,<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x,<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yy,<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y,<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>zz.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:173939:7"/>
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'Q'</figDesc>
+                  </figure>
+               </head>
+               <p>A.a.b.b.c.d.&amp;.f.g.h.i.k.l.m.n.o.p p.q.q.r.r.s.ss.st.sp.st.t.tt.v.v.u.w.w.x.y.z.z.&amp;c.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'R'</figDesc>
+                  </figure>
+               </head>
+               <p>Ammianus. Barnabie. Cockering. Diamond. Didimmer.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'S'</figDesc>
+                  </figure>
+               </head>
+               <p>Elizabeth. Faithfull. Gregorie. Hugh Houghton. &amp;c.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:173939:8"/>
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'T'</figDesc>
+                  </figure>
+               </head>
+               <p>J Jammais. Knock. Lumley. Monnington Marmaduke made.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'V'</figDesc>
+                  </figure>
+               </head>
+               <p>Hunnington<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Oomnipotent. Pamphemus. Quicun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quorumcum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'W'</figDesc>
+                  </figure>
+               </head>
+               <p>Roberie. Susanna. Tertullian. Vrsula. Vau<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:173939:9"/>
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'X'</figDesc>
+                  </figure>
+               </head>
+               <p>Wallowing. Xenfixed. Yeomanly. Zoan-buzzie. buzie. iz.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'Y'</figDesc>
+                  </figure>
+               </head>
+               <p>I haue hated the impious and haue animated, and continnuallie loued thy commaundements-louers, because they are true friends.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>anthropomorphic 'Z'</figDesc>
+                  </figure>
+               </head>
+               <p>How manie are the number and certaine summe of the daies of y<hi rend="sup">i</hi> seruaunts? oh teach vs to compt them that wee maie applie our &amp;c.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
